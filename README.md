@@ -34,3 +34,7 @@ Each mission was completed and documented separately. Each mission's README incl
 ## My Learning
 
 Through this assignment, I learned how a computer moves information through IPOS and how the operating system coordinates hardware and software. I also learned that Git and GitHub preserve work as reviewable commits and collaboration-ready branches.
+
+## Public repository summary
+
+This repository is a complete, mission-organized record of my Digital Detective learning assignment.
