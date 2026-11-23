@@ -16,7 +16,7 @@ Staging selects what belongs in the next commit, while a commit permanently reco
 The branch `update-about` was created for a short root-README learning update.
 
 ### Task 6.3 — Pull Request
-A branch is a separate named line of development; it lets work proceed without immediately changing main. A Pull Request proposes merging one branch into another and gives collaborators a place to review the changes. The PR status is recorded below according to GitHub.
+A branch is a separate named line of development; it lets work proceed without immediately changing main. A Pull Request proposes merging one branch into another and gives collaborators a place to review the changes. Pull Request https://github.com/CrackerHacker451/digital-detective-8531/pull/1 was created and merged into main after review.
 
 ### Task 6.4 — Git glossary
 - Initialize: `git init` creates a local Git repository.
